@@ -21,8 +21,8 @@ meta_twitter_site = "@zerostaticio"
 
 [params.logo]
 alt = "Serif - A Hugo Business Theme"
-mobile = "images/logo-mobile.svg"
-standard = "images/logo.svg"
+mobile = ""
+standard = "/images/logo.svg"
 
 [menu]
 
