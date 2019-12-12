@@ -20,7 +20,7 @@ meta_twitter_creator = "@zerostaticio"
 meta_twitter_site = "@zerostaticio"
 
 [params.logo]
-alt = "Serif - A Hugo Business Theme"
+alt = "Novo Contracting"
 mobile = ""
 standard = "/images/logo_black.svg"
 
@@ -34,14 +34,4 @@ weight = 1
 [[menu.footer]]
 name = "Contact"
 url = "/contact/"
-weight = 2
-
-[[menu.main]]
-name = "Services"
-url = "/services/"
-weight = 1
-
-[[menu.main]]
-name = "Team"
-url = "/team/"
 weight = 2
